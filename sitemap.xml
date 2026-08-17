@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://futuravive.com/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://futuravive.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://futuravive.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://futuravive.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://futuravive.com/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://futuravive.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://futuravive.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://futuravive.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://futuravive.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://futuravive.com/"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://futuravive.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://futuravive.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://futuravive.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://futuravive.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://futuravive.com/"/>
+    <priority>0.9</priority>
+  </url>
+</urlset>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+Disallow: /en/thank-you.html
+Disallow: /fr/thank-you.html
+
+Sitemap: https://futuravive.com/sitemap.xml
